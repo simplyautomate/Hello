@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
+### Overview
+
 <style type="text/css">
 h1 {color:red;}
 h2,h3 {color:blue;}
 p {color:black;}
 </style>
-
-### Overview
 
 We help you to automate tedious tasks so that you can focus on your business. Automation can be across any types and size of business. 
 
